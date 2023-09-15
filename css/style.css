@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700;800;900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/algeria');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+:root{
+    --green : #003434;
+    --bg : #eff1e9;
+    --black : #26241d;
+    --algerian : 'Algeria', sans-serif;
+
+}
